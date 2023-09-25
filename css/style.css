@@ -58,3 +58,40 @@ margin-top: 0px;
 .primo-lorem {
     margin-top: 15px;
 }
+.titolo-tabella {
+    background-color: #20a9e5;
+    color: white;
+}
+
+.corpo-tabella {
+background-color: #b1e5f2;
+   
+}
+
+.yellow-underline {
+    background-color: yellow;
+}
+
+.scritta-immagine {
+    
+    padding-top: 104px;
+    padding-bottom: 104px;
+    padding-left: 161px;
+    padding-right: 161px;
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    color: white;
+    font-size: 15px;
+}
+
+.scritta-immagine2 {
+    
+    padding-top: 104px;
+    padding-bottom: 104px;
+    padding-left: 161px;
+    padding-right: 161px;
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    color: white;
+    font-size: 15px;
+}
