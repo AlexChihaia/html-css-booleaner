@@ -1,0 +1,93 @@
+* {
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.banner{
+    background-image: url(../img/pattern.png);
+    background-color: aqua;
+    margin-left: 0px;
+    margin-right: 0px;
+    border: 2px solid goldenrod;
+}
+
+body {
+    background-color: bisque;
+}
+
+.titolo1{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.grigio {
+    color: brown;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+
+.sottotitolo {
+    margin-bottom: 0px;
+    margin-left: 0px;
+    font-family: fantasy;
+}
+
+.nomeblu{
+    color: aqua;
+    margin-left: 0px;
+}
+
+.grigio2{
+    margin-top: 0px;
+    font-family:fantasy;
+    color: brown;
+    font-size: 15px;
+}
+
+.paragrafi-foto {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 12px;
+    color: gray;
+}
+
+.yellow-underline {
+    background-color:cadetblue;
+}
+
+.primo-lorem {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ul {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#aggiusta-margine {
+    text-align: left;
+}
+
+.titolo-tabella {
+    background-color: rgb(149, 241, 73);
+}
+
+.corpo-tabella {
+    background-color:rgb(168, 204, 139);
+}
+
+.scritta-immagine {
+    background-image: url(../img/monitor.jpg) ;
+    width: 312px;
+    height: 208px;
+    text-align:center;
+    color: white;
+}
+
+.scritta-immagine2 {
+    background-image: url(../img/graph.jpg) ;
+    width: 312px;
+    height: 208px;
+    text-align:center;
+    color: white;
+}
