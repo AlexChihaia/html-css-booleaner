@@ -99,3 +99,12 @@ background-color: #b1e5f2;
 .paragrafo-finale {
     margin-top: 20px;
 }
+
+table {
+    border-collapse: collapse;
+    text-align: left;
+}
+
+#terza-colonna {
+    width: 50%;
+}
